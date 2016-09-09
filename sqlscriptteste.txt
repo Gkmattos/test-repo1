@@ -1,0 +1,11 @@
+INSERT INTO Livros VALUES ('Diário de Larissa Manoela', 18, 'É unânime: não há criança ou adolescente que não tenha ouvido falar de Larissa Manoela. Protagonista da novela Carrossel, do SBT, em que viveu a enjoada Maria Joaquina, e da novela Cúmplices de um Resgate, na qual interpreta gêmeas, uma boa e a outra má, Larissa é a atriz que mais aparece no horário nobre da TV brasileira — está no ar com a novela inédita e com a reprise de Carrossel. 
+', 5,'http://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9334676&qld=90&l=430&a=-1');
+INSERT INTO Livros VALUES ('Olá, Meninas e Meninos!',23,'Olá meninas e meninos! Estou tão acostumada a falar de mim nos vídeos que escrever tem sido um desafio. 
+', 5, 'http://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9337379&qld=90&l=430&a=-1');
+INSERT INTO Livros VALUES ('Harry Potter e A Criança Amaldiçoada - Parte Um e Dois - Capa Dura', 48, 'Sempre foi difícil ser Harry Potter e não é mais fácil agora que ele é um sobrecarregado funcionário do Ministério da Magia, marido e pai de três crianças em idade escolar. 
+', 5, 'http://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9370590&qld=90&l=430&a=-1');
+INSERT INTO Livros VALUES ('Os Contos de Beedle , o Bardo', 13, 'O livro, que aparece em 'Harry Potter e as Relíquias da Morte' como um presente do mestre Dumbledore para Hermione, reúne cinco textos escritos e ilustrados por Rowling. 
+', 5, 'http://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=2611718&qld=90&l=430&a=-1');
+INSERT INTO Livros VALUES ('Quadribol Atraves dos Seculos', 12, 'Se você algum dia quis saber como surgiu o pomo de ouro ou por que o time dos Vagamundos de Wigtown (Wigtown Wanderers) tem a estampa de um cutelo de açougueiro no uniforme, você precisa ler Quadribol através dos séculos (Quidditch throught the ages). 
+', 5, 'http://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=464314&qld=90&l=430&a=-1');
+
