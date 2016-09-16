@@ -5,17 +5,24 @@
  */
 package saraiva;
 
+import java.util.List;
+
 /**
  *
- * @author 11104974
+ * @author Gabriel Mattos e Marina Barros
  */
 public class Saraiva {
 
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void main(String[] args) throws DAOLivroException{
+        {
+		LivroDAO test =  new LivroDAODerby();
+                List<Livro> Livro = test.buscarTodos();
+                System.out.print(Livro);
+                    
+	}
     }
     
 }
